@@ -195,7 +195,7 @@ const Form = ({ currentId, setCurrentId }) => {
               }}
             />
           </div>
-          <div className="space-y-2">
+          <div className="space-y-2 mb-5">
             <label htmlFor="file-upload" className="text-sm font-medium leading-none text-slate-700">
               Upload image
             </label>
